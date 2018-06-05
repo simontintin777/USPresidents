@@ -13,3 +13,7 @@ Get the originally list of data
 Get the ascending order of data
 ## /presidents/descending
 Get the descending order of data
+
+# Run
+npm install
+npm start
