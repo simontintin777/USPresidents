@@ -15,5 +15,5 @@ Get the ascending order of data
 Get the descending order of data
 
 # Run
-##npm install
-##npm start
+## npm install
+## npm start
